@@ -1,0 +1,16 @@
+{
+  "name": "app01",
+  "version": "0.0.1",
+  "description": "Első",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx lite-server"
+  },
+  "keywords": [],
+  "author": "Gerecs Diána",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
